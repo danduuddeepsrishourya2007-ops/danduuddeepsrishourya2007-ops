@@ -1,6 +1,6 @@
 <h1 align="center">Shourya</h1>
 
-<h3 align="center">B.Tech Engineering Sciences, IIT Hyderabad &nbsp;|&nbsp; Full Stack &amp; AI Developer</h3>
+<h3 align="center">B.Tech Engineering Science, IIT Hyderabad &nbsp;|&nbsp; Full Stack &amp; AI Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
@@ -12,7 +12,7 @@
 
 ## About Me
 
-Second-year Engineering Sciences student at IIT Hyderabad (2025–2029) and solo founder of two startups: **SkillCredit** and **StudyMatch**. I build full-stack products and tooling for AI agents.
+Second-year Engineering Science student at IIT Hyderabad (2025–2029) and solo founder of two startups: **SkillCredit** and **StudyMatch**. I build full-stack products and tooling for AI agents.
 
 * **Ask me about** — Python, Web Development, AI/ML, agent loop design
 * **Currently exploring** — DSA
