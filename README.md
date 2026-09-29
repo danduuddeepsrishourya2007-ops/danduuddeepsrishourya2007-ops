@@ -15,9 +15,9 @@
 Second-year Engineering Sciences student at IIT Hyderabad (2025–2029) and solo founder of two startups: **SkillCredit** and **StudyMatch**. I build full-stack products and tooling for AI agents.
 
 * **Ask me about** — Python, Web Development, AI/ML, agent loop design
-* **Currently exploring** — multi-agent systems, semantic caching
+* **Currently exploring** — DSA
 * **Also** — Web Manager at IIT Hyderabad's E-Cell, Web Coordinator at Elan & nVision
-* **Contact** — [YOUR-EMAIL@gmail.com](danduuddeepsrishourya2007@gmail.com)
+* **Contact** — (danduuddeepsrishourya2007@gmail.com)
 
 ---
 
