@@ -3,9 +3,9 @@
 <h3 align="center">B.Tech Engineering Science, IIT Hyderabad &nbsp;|&nbsp; Full Stack &amp; AI Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="(https://www.linkedin.com/in/uddeep-sri-shourya-dandu-71017a3ba/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://github.com/danduuddeepsrishourya2007-ops"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="mailto:danduuddeepsrishourya2007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
